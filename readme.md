@@ -19,11 +19,11 @@ To set up the Security Audit Web Application on your server, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/security-audit-webapp.git
+   git clone https://github.com/andriivmnd/auditor-php.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd security-audit-webapp
+   cd auditor-php
    ```
 3. **Set up the database**:
    - Import the SQL file provided in the `database` folder into your MySQL database.
